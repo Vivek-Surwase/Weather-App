@@ -1,0 +1,60 @@
+
+#title
+{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bolder;
+}
+#div0
+{
+    background-image: linear-gradient(white,grey);
+  
+    margin-left: -8px;
+    margin-right: -8px;
+    padding-bottom: 8px;
+    margin-top: -20px;
+}
+#div1
+{
+    text-align: center;
+    
+}
+#city_input
+{
+    
+    font-size: 25px;
+    margin-right: 20px;
+    border: none;
+    border-radius: 10px;
+}
+button
+{
+    font-size: 25px;
+    background-image: linear-gradient(rgb(8, 27, 230),rgb(129, 166, 240));
+    color:white;
+    border-radius: 5px;
+    border:none;
+}
+
+#div3
+{
+    padding-top: 3px;
+    /* padding-left: 400px; */
+    padding-bottom: 1px;
+    font-size: 23px;
+    color: white;
+    
+    background-image: linear-gradient(black,grey);
+    margin-left:-8px;
+    margin-right:-8px;
+    text-align: center;
+}
+
+#div3 span{
+    color:aqua;
+}
+#developer
+{
+    
+    text-align: center;
+}
